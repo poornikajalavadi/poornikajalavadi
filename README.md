@@ -5,15 +5,14 @@
 ---
 
 🎯 **Currently working on**: MLOps observability, model monitoring/drift detection, and RAG-based AI systems
-🌱 **Learning**: Deep learning, neural networks, and scalable data pipeline design
-
+🌱 **Learning**: Deep learning, neural networks, and scalable data pipeline design.
 📫 **Reach me at**: [jalavadi.p@northeastern.edu](mailto:jalavadi.p@northeastern.edu) · [LinkedIn](https://linkedin.com/in/poornika-jalavadi) · Boston, MA
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 MS student in **Data Analytics Engineering @ Northeastern University** (GPA 3.84, expected May 2027)
+- - 💼 **Data Engineer Co-op @ Crewasis AI** — building scalable data pipelines, ETL workflows, and AI-powered data solutions for analytics and machine learning applications.
+- 🎓 MS student in **Data Analytics Engineering @ Northeastern University** (GPA 3.84)
 - 🎓 B.Tech in Information Science Engineering, VTU, India
 - 🤖 Former **ML Intern @ Mysuru Consultancy Group** — built a RAG pipeline that cut document-search time from 45 min to under 2 min
 - 📈 Former **ML Intern @ AI Robosoft** — improved retail demand forecasting accuracy (MAPE 28% → 11%)
