@@ -6,7 +6,7 @@
 
 🎯 **Currently working on**: MLOps observability, model monitoring/drift detection, and RAG-based AI systems
 🌱 **Learning**: Deep learning, neural networks, and scalable data pipeline design
-⚡ **Fun fact**: _[add yours here]_
+
 📫 **Reach me at**: [jalavadi.p@northeastern.edu](mailto:jalavadi.p@northeastern.edu) · [LinkedIn](https://linkedin.com/in/poornika-jalavadi) · Boston, MA
 
 ---
