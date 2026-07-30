@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- - 💼 **Data Engineer Co-op @ Crewasis AI** — building scalable data pipelines, ETL workflows, and AI-powered data solutions for analytics and machine learning applications.
+- 💼 **Data Engineer Co-op @ Crewasis AI** — building scalable data pipelines, ETL workflows, and AI-powered data solutions for analytics and machine learning applications.
 - 🎓 MS student in **Data Analytics Engineering @ Northeastern University** (GPA 3.84)
 - 🎓 B.Tech in Information Science Engineering, VTU, India
 - 🤖 Former **ML Intern @ Mysuru Consultancy Group** — built a RAG pipeline that cut document-search time from 45 min to under 2 min
